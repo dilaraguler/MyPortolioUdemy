@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "MyPortolioUdemy": {
+    "MyPortfolioUdemy": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
